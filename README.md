@@ -1,6 +1,6 @@
 # ALU-Verification
 
-#### A testbench was created using the verification methodology to rigorously assess the functionality and reliability of an ALU RTL (Register Transfer Level) design. The purpose of this verification process was to identify any existing bugs in the ALU. 
+#### A testbench was created in SystemVerilog language on Mentor QuestaSim using the verification methodology to rigorously assess the functionality and reliability of an ALU RTL (Register Transfer Level) design. The purpose of this verification process was to identify any existing bugs in the ALU. 
 <br>
 The ALU takes three inputs:
   <li>A (an 8-bit First Operand) </li> 
@@ -25,7 +25,7 @@ It provides two outputs:
 
 <br>
 
-### The HTML Coverage Report
+## The HTML Coverage Report
 <br>
 <br>
 
@@ -34,7 +34,7 @@ It provides two outputs:
 <br>
 <br>
 
-### The Coverage Report Details
+## The Coverage Report Details
 
 <br>
 <br>
