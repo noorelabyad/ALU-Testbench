@@ -25,7 +25,7 @@ It provides two outputs:
 
 <br>
 
-# The HTML Coverage Report
+### The HTML Coverage Report
 <br>
 <br>
 
@@ -34,7 +34,7 @@ It provides two outputs:
 <br>
 <br>
 
-# The Coverage Report Details
+### The Coverage Report Details
 
 <br>
 <br>
