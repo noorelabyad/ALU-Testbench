@@ -1,6 +1,6 @@
 # ALU-Verification
 
-### A testbench was created using the verification methodology to rigorously assess the functionality and reliability of an ALU RTL (Register Transfer Level) design. The purpose of this verification process was to identify any existing bugs in the ALU. 
+#### A testbench was created using the verification methodology to rigorously assess the functionality and reliability of an ALU RTL (Register Transfer Level) design. The purpose of this verification process was to identify any existing bugs in the ALU. 
 <br>
 The ALU takes three inputs:
   <li>A (an 8-bit First Operand) </li> 
@@ -12,7 +12,7 @@ It provides two outputs:
   <li>CarryOut (a 1-bit Carry-Out Flag)</li> 
 <br>
 
-### During the verification process, *three bugs* were discovered in the ALU. These bugs pertained to the Addition, Logical AND, and Logical XNOR operations, and they were effectively detected and documented using the testbench as shown in the following output: 
+#### During the verification process, *three bugs* were discovered in the ALU. These bugs pertained to the Addition, Logical AND, and Logical XNOR operations, and they were effectively detected and documented using the testbench as shown in the following output: 
 
 <br>
 <br>
@@ -21,7 +21,7 @@ It provides two outputs:
 
 <br>
 
-### In order to analyze the coverage of the verification, an HTML coverage report was generated, and a detailed coverage report was also compiled using the "coverage report -detail" command. These reports provide valuable insights into the extent of verification achieved and the completeness of the testing process.
+#### In order to analyze the coverage of the verification, an HTML coverage report was generated, and a detailed coverage report was also compiled using the "coverage report -detail" command. These reports provide valuable insights into the extent of verification achieved and the completeness of the testing process.
 
 <br>
 
