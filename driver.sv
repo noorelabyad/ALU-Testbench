@@ -19,6 +19,8 @@ class driver;
 				vif.B<=trans.B;
 				vif.ALU_Sel<=trans.ALU_Sel;
 				//trans.display("Driver");
+				trans.ALU_Out=vif.ALU_Out;
+				trans.CarryOut=vif.CarryOut;
 			end
 	endtask
 endclass
